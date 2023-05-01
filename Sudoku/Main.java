@@ -93,8 +93,7 @@ public class Main {
 			System.out.println("2 - Imprimir segundo caso: EASY");
 			System.out.println("3 - Imprimir terceiro caso : MEDIUM");
 			System.out.println("4 - Imprimir quarto caso: HARD");
-			System.out.println("5 - Imrpimir quinto caso: EXTREME");
-			System.out.println("6 - Gerar e imprimir jogo aleatorio");
+			System.out.println("5 - Imrpimir quinto caso: EXTREME");			
 			menu = MyIO.readInt("Digite o opcao desejada ou 0(zero) para sair:");
 			
 			
